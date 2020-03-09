@@ -1,0 +1,24 @@
+_repo: The-Red-Reign-The-True-Story-of-an-Adventurous-Year-in-Russia_61557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durland, Kellogg
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '51135'
+    url: http://www.gutenberg.org/2009/agents/51135
+description: Illustrated with photographs by the author and others.
+gutenberg_issued: '2020-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Politics and government -- 1894-1917'
+- !lcc 'DK'
+- GITenberg
+title: 'The Red Reign: The True Story of an Adventurous Year in Russia'
+url: http://www.gutenberg.org/ebooks/61557
